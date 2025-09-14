@@ -1,0 +1,4 @@
+hid
+pyglm
+joycon-python
+pyautogui
